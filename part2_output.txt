@@ -1,0 +1,90 @@
+Network Traffic Analysis Results
+==============================
+
+TCP Analysis
+------------
+
+Probing Activities:
+
+Probe 1:
+  Number of packets: 1034
+  Time range: 1521662805.48 to 1521663056.78 seconds
+  Source IPs:
+    192.168.2.240: 1034 packets
+
+Scanning Activities:
+
+Scan 1:
+  Number of packets: 21
+  Port range: 22 to 22
+  Source IPs:
+    192.168.2.240: 21 packets
+
+Scan 2:
+  Number of packets: 5
+  Port range: 34976 to 35002
+  Source IPs:
+    192.168.2.240: 5 packets
+
+Scan 3:
+  Number of packets: 5
+  Port range: 40682 to 40714
+  Source IPs:
+    192.168.2.240: 5 packets
+
+Scan 4:
+  Number of packets: 5
+  Port range: 41016 to 41026
+  Source IPs:
+    192.168.2.240: 5 packets
+
+Scan 5:
+  Number of packets: 5
+  Port range: 41966 to 41986
+  Source IPs:
+    192.168.2.240: 5 packets
+
+Scan 6:
+  Number of packets: 5
+  Port range: 43852 to 43880
+  Source IPs:
+    192.168.2.240: 5 packets
+
+Scan 7:
+  Number of packets: 6
+  Port range: 44358 to 44380
+  Source IPs:
+    192.168.2.240: 6 packets
+
+Scan 8:
+  Number of packets: 5
+  Port range: 48674 to 48700
+  Source IPs:
+    192.168.2.240: 5 packets
+
+Scan 9:
+  Number of packets: 5
+  Port range: 55890 to 55900
+  Source IPs:
+    192.168.2.240: 5 packets
+
+Scan 10:
+  Number of packets: 5
+  Port range: 57562 to 57572
+  Source IPs:
+    192.168.2.240: 5 packets
+
+Scan 11:
+  Number of packets: 5
+  Port range: 58124 to 58146
+  Source IPs:
+    192.168.2.240: 5 packets
+
+UDP Analysis
+------------
+
+Probing Activities:
+  No probing activities detected
+
+Scanning Activities:
+  No scanning activities detected
